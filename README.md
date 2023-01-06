@@ -3,7 +3,7 @@ I am an undergraduate Computer Science and Business junior at the University of 
 
 ## About
 - 🔭 I’m currently working on building a job platform for College DAO and developing the marketplace platform for Preet. I also do professional event photography and video editing. [Here are some shots I did for a recent event at Stanford](https://drive.google.com/drive/folders/1HLzzaSd7ggJCKS3IrMFvo_puVJPwdqkY?usp=share_link).
-- 🌱 I’m currently learning Next.js 13, database management, and systems design.
+- 🌱 I’m currently learning Next.js 13, Ruby on Rails, and systems design.
 - 💬 Ask me about anything you'd like :)
 - 📫 How to reach me: [Website](https://mwalts.com) | [Email](mailto:mwalts@umich.edu)
 - ⚡ Fun fact: To relax, I love to listen to EDM, run in Ann Arbor's temperate winter climate, or draw in my sketchbook :)
