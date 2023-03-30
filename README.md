@@ -6,4 +6,4 @@ I am an undergraduate Computer Science and Business junior at the University of 
 - 🌱 I’m currently learning PHP, Next.js 13 and D3.js.
 - 💬 Ask me about anything you'd like :)
 - 📫 How to reach me: [Website](https://mwalts.com) | [Email](mailto:mwalts@umich.edu)
-- ⚡ In my free time, I love to listen to audiobooks and explore new coffee shops in Ann Arbor
+- ⚡ In my free time, I love to listen to audiobooks and explore new coffee shops in Ann Arbor.
