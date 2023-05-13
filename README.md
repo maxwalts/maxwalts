@@ -3,7 +3,7 @@ I am an undergraduate Computer Science and Business junior at the University of 
 
 ## About
 - 🔭 I do event and portrait photography. [Here](https://drive.google.com/drive/folders/1HLzzaSd7ggJCKS3IrMFvo_puVJPwdqkY?usp=share_link) are some shots I did for a recent event at Stanford.
-- 🌱 I’m currently learning Next.js 13 and making agents with LangChain.
+- 🌱 I’m currently building some new AI apps with OpenAI, Midjourney, and LangChain.
 - 💬 Ask me about anything you'd like :)
 - 📫 How to reach me: [Website](https://mwalts.com) | [Email](mailto:mwalts@umich.edu)
-- ⚡ In my free time, I love to listen to audiobooks and explore new coffee shops in Ann Arbor.
+- ⚡ In my free time, I love to listen to audiobooks and explore new coffee shops.
